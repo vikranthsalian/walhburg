@@ -401,7 +401,7 @@ img {
 }
 
 .theme-color {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .theme-bg {
@@ -2037,7 +2037,7 @@ header.main-header.header-style-one {
 }
 
 .hvr-zoom-1-primary:before {
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .hvr-zoom-1:hover:before {
@@ -2125,7 +2125,7 @@ header.main-header.header-style-one {
 }
 
 .c_primary {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .c_primary2 {
@@ -3159,7 +3159,7 @@ ul.footer-social-media a {
 	margin-bottom: 15px;
 	color: #fff;
 	line-height: 32px;
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 h4.f-head {
@@ -3180,7 +3180,7 @@ h4.f-head {
 }
 .link-widget-1 h5 {
     color: #fff;
-    border: 1px solid #f9bd067a;
+    border: 1px solid #C29B8B7a;
     padding: 15px;
     width: 60%;
     margin: 8px 0px;
@@ -3199,7 +3199,7 @@ h4.f-head {
 }
 
 .link-widget-1 p a {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .link-widget-1 p a:hover {
@@ -3669,7 +3669,7 @@ ul.team-1-social-icon a:hover {
     padding-top: 5px;
     background-repeat: no-repeat;
     background-position: left bottom;
-    background-color: #f9bd066e;
+    background-color: #C29B8B6e;
 }
 
 .building-site-wrap {
@@ -5839,7 +5839,7 @@ header.main-header.header-style-ten .main-menu .navigation>li.current>a, .main-m
 
 .headerlink-btn a {
     color: #fff;
-    background: #f9bd06;
+    background: #C29B8B;
     padding: 18px 25px;
     font-weight: 700;
     letter-spacing: 0.8px;
@@ -6365,7 +6365,7 @@ cite.projectdetails-1-author-name {
 
 .project-section .filters .filter-tabs li.active {
 	color: #fff;
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .project-section .filters .filter-tabs li:before {
@@ -6435,7 +6435,7 @@ cite.projectdetails-1-author-name {
 }
 
 .project-block-one .inner-box .content-box h3 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .project-block-one .inner-box .content-box p {
@@ -6471,7 +6471,7 @@ cite.projectdetails-1-author-name {
     font-family: "Priori Sans", sans-serif;
     font-weight: 600;
 	text-transform: uppercase;
-	color: #f9bd06;
+	color: #C29B8B;
 	padding-left: 40px;
 	margin-bottom: 6px;
 }
@@ -6483,7 +6483,7 @@ cite.projectdetails-1-author-name {
 	height: 2px;
 	left: 0px;
 	top: 12px;
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .text-center .sub-title {
@@ -6497,7 +6497,7 @@ cite.projectdetails-1-author-name {
 	height: 2px;
 	right: 0px;
 	top: 12px;
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .concept-section h2 {
@@ -6676,7 +6676,7 @@ cite.projectdetails-1-author-name {
 }
 
 .feature-section .tabs-content .link-box a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .feature-section .content-box {
@@ -6795,11 +6795,11 @@ cite.projectdetails-1-author-name {
 }
 
 .creative-section .left-column a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .creative-section .left-column a:hover:before {
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .creative-section .right-content {
@@ -6814,7 +6814,7 @@ cite.projectdetails-1-author-name {
 	font-size: 16px;
 	line-height: 26px;
 	font-family: "Priori Sans", sans-serif;
-	color: #f9bd06;
+	color: #C29B8B;
 	font-weight: 700;
 	text-transform: uppercase;
 	padding-right: 144px;
@@ -6824,7 +6824,7 @@ cite.projectdetails-1-author-name {
 .creative-section .right-content span:before {
 	position: absolute;
 	content: '';
-	background: #f9bd06;
+	background: #C29B8B;
 	width: 124px;
 	height: 2px;
 	bottom: 8px;
@@ -7289,7 +7289,7 @@ cite.projectdetails-1-author-name {
 
 .banner-style-12 .content-box a:hover {
 	color: #fff;
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .sec-title h2 {
@@ -7361,7 +7361,7 @@ cite.projectdetails-1-author-name {
 }
 
 .feature-block-two .inner-box h3 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 
@@ -7423,7 +7423,7 @@ cite.projectdetails-1-author-name {
 }
 
 .service-block-one .inner-box h3 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .service-block-one .inner-box p {
@@ -7475,7 +7475,7 @@ cite.projectdetails-1-author-name {
 
 .project-style-two .filter-tabs li.active,
 .project-style-two .filter-tabs li:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .project-style-two .outer-container {
@@ -7554,7 +7554,7 @@ cite.projectdetails-1-author-name {
 	line-height: 44px;
 	text-align: center;
 	border-radius: 50%;
-	background: #f9bd06;
+	background: #C29B8B;
 	left: 50%;
 	margin-left: -22px;
 	bottom: -28px;
@@ -7713,7 +7713,7 @@ cite.projectdetails-1-author-name {
 	font-size: 16px;
 	line-height: 26px;
 	font-family: "Priori Sans", sans-serif;
-	color: #f9bd06;
+	color: #C29B8B;
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -7724,7 +7724,7 @@ cite.projectdetails-1-author-name {
 .contact-section .content-box span:before {
 	position: absolute;
 	content: '';
-	background: #f9bd06;
+	background: #C29B8B;
 	width: 110px;
 	height: 2px;
 	right: 0px;
@@ -7822,7 +7822,7 @@ cite.projectdetails-1-author-name {
 
 .contact-section .form-inner .form-group input:focus,
 .contact-section .form-inner .form-group textarea:focus {
-	border-color: #f9bd06;
+	border-color: #C29B8B;
 }
 
 .contact-section .form-inner .form-group button {
@@ -7835,7 +7835,7 @@ cite.projectdetails-1-author-name {
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	background: #f9bd06;
+	background: #C29B8B;
 	padding: 14px 25px;
 	cursor: pointer;
 	transition: all 500ms ease;
@@ -7902,7 +7902,7 @@ cite.projectdetails-1-author-name {
 }
 
 .footer-style-three .footer-menu li a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .footer-style-three .links-widget {
@@ -7946,8 +7946,8 @@ cite.projectdetails-1-author-name {
 
 .footer-style-three .links-widget .social-links li a:hover {
 	color: #fff;
-	background: #f9bd06;
-	border-color: #f9bd06;
+	background: #C29B8B;
+	border-color: #C29B8B;
 }
 
 .footer-style-three .links-widget h4 {
@@ -7978,8 +7978,8 @@ cite.projectdetails-1-author-name {
 }
 
 .footer-style-three .links-widget h5 a:hover {
-	color: #f9bd06;
-	border-color: #f9bd06;
+	color: #C29B8B;
+	border-color: #C29B8B;
 }
 
 .footer-style-three .links-widget {
@@ -8013,7 +8013,7 @@ cite.projectdetails-1-author-name {
 }
 
 .footer-style-three .footer-bottom .bottom-inner p a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 
@@ -8070,7 +8070,7 @@ cite.projectdetails-1-author-name {
 }
 
 .header-top-two h5 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .header-top-two h5 img {
@@ -8111,7 +8111,7 @@ cite.projectdetails-1-author-name {
 }
 
 .header-top-two .social-links li a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .header-style-13 .main-menu .navigation>li>a {
@@ -8231,7 +8231,7 @@ cite.projectdetails-1-author-name {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	padding: 16.5px 29px;
-	background: #f9bd06;
+	background: #C29B8B;
 	border-radius: 5px;
 	margin-right: 25px;
 }
@@ -8257,7 +8257,7 @@ cite.projectdetails-1-author-name {
 }
 
 .banner-style-13 .content-box .btn-box .btn-two:hover {
-	background: #f9bd06;
+	background: #C29B8B;
 	color: #fff;
 }
 
@@ -8280,7 +8280,7 @@ cite.projectdetails-1-author-name {
 	height: 2px;
 	right: 0px;
 	top: 12px;
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .about-section .sub-title {
@@ -8387,7 +8387,7 @@ cite.projectdetails-1-author-name {
 }
 
 .service-block-two:nth-child(3) .image-inner .bg-layer:before {
-	background: #f9bd06;
+	background: #C29B8B;
 	clip-path: polygon(0% 50%, 100% 0%, 100% 100%, 0% 50%, 0% 0%);
 	right: 0px;
 }
@@ -8482,7 +8482,7 @@ cite.projectdetails-1-author-name {
 }
 
 .service-block-two:nth-child(3) .inner-box {
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .service-block-two:nth-child(3) .content-box h6 a {
@@ -8561,7 +8561,7 @@ cite.projectdetails-1-author-name {
 }
 
 .core-section .lower-box .contact-box h3 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .core-section .lower-box .contact-box p {
@@ -8612,7 +8612,7 @@ cite.projectdetails-1-author-name {
 	left: 0px;
 	top: 23px;
 	font-size: 65px;
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .funfact-block-one .inner-box .count-outer {
@@ -8814,7 +8814,7 @@ cite.projectdetails-1-author-name {
 
 .contact-style-two .form-inner .form-group input:focus,
 .contact-style-two .form-inner .form-group textarea:focus {
-	border-color: #f9bd06;
+	border-color: #C29B8B;
 }
 
 .sec-title.light h2 {
@@ -8831,7 +8831,7 @@ cite.projectdetails-1-author-name {
 	font-weight: 700;
 	text-transform: uppercase;
 	padding: 16px 40px;
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .contact-style-two .sub-title {
@@ -8902,7 +8902,7 @@ cite.projectdetails-1-author-name {
 }
 
 .news-section .sec-title .link h5 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .news-block-one .inner-box {
@@ -8978,14 +8978,14 @@ cite.projectdetails-1-author-name {
 .news-block-one .inner-box .lower-content .post-info li a {
 	position: relative;
 	display: inline-block;
-	color: #f9bd06;
+	color: #C29B8B;
 	padding-left: 40px;
 }
 
 .news-block-one .inner-box .lower-content .post-info li a:before {
 	position: absolute;
 	content: '';
-	background: #f9bd06;
+	background: #C29B8B;
 	width: 30px;
 	height: 2px;
 	left: 0px;
@@ -9024,7 +9024,7 @@ cite.projectdetails-1-author-name {
 }
 
 .news-block-one .inner-box .lower-content h3 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 
@@ -9133,7 +9133,7 @@ figure {
 }
 
 .footer-style-four .contact-widget h4 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .footer-style-four .contact-widget p {
@@ -9225,7 +9225,7 @@ figure {
 	font-size: 18px;
 	line-height: 28px;
 	font-family: "Priori Sans", sans-serif;
-	color: #f9bd06;
+	color: #C29B8B;
 	font-weight: 500;
 }
 
@@ -9286,7 +9286,7 @@ figure {
 }
 
 .header-top-three .right-column .social-links li a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .header-style-14 .header-upper {
@@ -9297,7 +9297,7 @@ figure {
 
 .header-style-14 .main-menu .navigation>li.current>a, 
 .header-style-14 .main-menu .navigation>li>a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .header-style-14 .main-menu .navigation>li.dropdown>a:before {
@@ -9326,11 +9326,11 @@ figure {
 }
 
 .banner-style-14 .content-box h6 {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .banner-style-14 .content-box h6:before {
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .banner-style-14 .content-box h2 {
@@ -9350,7 +9350,7 @@ figure {
 
 .banner-style-14 .content-box .btn-box .btn-one:hover {
 	background: #fff;
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 
@@ -9415,7 +9415,7 @@ figure {
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	background: #f9bd06;
+	background: #C29B8B;
 	padding: 18px 28px 14px 28px;
 	transition: all 500ms ease;
 }
@@ -9521,7 +9521,7 @@ figure {
 	height: 2px;
 	right: 0px;
 	top: 12px;
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .project-block-three .inner-box {
@@ -9570,7 +9570,7 @@ figure {
 
 .project-block-three .inner-box .image-box .view-btn a:hover {
 	color: #fff;
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .project-block-three .inner-box .lower-content {
@@ -9603,7 +9603,7 @@ figure {
 }
 
 .project-block-three .inner-box .lower-content h3 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .testimonial-section.dark-section .outer-container {
@@ -9690,7 +9690,7 @@ figure {
 
 .contact-style-three .content-box form .form-group input:focus,
 .contact-style-three .content-box form .form-group textarea:focus {
-	border-color: #f9bd06;
+	border-color: #C29B8B;
 }
 
 .contact-style-three .sec-title h2 {
@@ -10079,13 +10079,13 @@ figure {
 .service-block-three .inner-box .lower-content h6 a {
 	display: inline-block;
 	padding-left: 80px;
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .service-block-three .inner-box .lower-content h6 a:before {
 	position: absolute;
 	content: '';
-	background: #f9bd06;
+	background: #C29B8B;
 	width: 68px;
 	height: 2px;
 	left: 0px;
@@ -10227,7 +10227,7 @@ figure {
 	line-height: 40px;
 	text-align: center;
 	border-radius: 50%;
-	background: #f9bd06;
+	background: #C29B8B;
 	font-size: 20px;
 	color: #fff;
 }
@@ -11587,7 +11587,7 @@ figure {
 	font-size: 20px;
 	line-height: 30px;
 	font-family: "Priori Sans", sans-serif;
-	color: #f9bd06;
+	color: #C29B8B;
 	font-weight: 700;
 	text-transform: uppercase;
 	padding-right: 170px;
@@ -11598,7 +11598,7 @@ figure {
 .banner-style-18 .content-box span:before {
 	position: absolute;
 	content: '';
-	background: #f9bd06;
+	background: #C29B8B;
 	width: 158px;
 	height: 3px;
 	right: 0px;
@@ -11656,7 +11656,7 @@ figure {
 }
 
 .banner-style-18 .content-box .btn-box .link-btn:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .banner-style-18 .support-box {
@@ -11867,7 +11867,7 @@ figure {
 }
 
 .vision-section .text-box p a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .vision-section .sec-title h2 {
@@ -11974,7 +11974,7 @@ figure {
 
 .feature-style-three .content-box .lower-box .theme-btn-one {
 	border-radius: 35px;
-	background: #f9bd06;
+	background: #C29B8B;
 	margin-right: 40px;
 	padding: 17px 33px 14px 33px;
 }
@@ -12021,7 +12021,7 @@ figure {
 }
 
 .feature-style-three .content-box .lower-box .support-box h4 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .feature-style-three .image-box {
@@ -12059,7 +12059,7 @@ figure {
 }
 
 .testimonial-style-two.home-18 .testimonials-1-quote {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .testimonial-style-two.home-18 .testimonials-1-top-content:before {
@@ -12207,7 +12207,7 @@ figure {
 }
 
 .banner-style-19 .content-box a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .banner-style-19 .content-box .year {
@@ -12916,8 +12916,8 @@ figure {
 	display: inline-block;
 	font-weight: 700;
 	font-style: italic;
-	color: #f9bd06;
-	border-bottom: 2px solid #f9bd06;
+	color: #C29B8B;
+	border-bottom: 2px solid #C29B8B;
 	line-height: 50px;
 }
 
@@ -13043,7 +13043,7 @@ figure {
 	left: 83px;
 	bottom: 40px;
 	width: 350px;
-	background: #f9bd06;
+	background: #C29B8B;
 	font-size: 16px;
 	line-height: 26px;
 	font-family: "Priori Sans", sans-serif;
@@ -13261,7 +13261,7 @@ figure {
 }
 
 .news-section.home-21 .news-block-one .inner-box .lower-content .post-info li:before {
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .news-section.home-21 {
@@ -13393,8 +13393,8 @@ figure {
 }
 
 .banner-style-22 .content-box .list-item li a:hover {
-	color: #f9bd06;
-	border-color: #f9bd06;
+	color: #C29B8B;
+	border-color: #C29B8B;
 }
 
 .banner-style-22 .intro-box {
@@ -13628,7 +13628,7 @@ figure {
 
 .project-block-four .inner-box .image-box .link a:hover {
 	color: #fff;
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .project-block-four .inner-box  .lower-content {
@@ -13653,7 +13653,7 @@ figure {
 }
 
 .project-block-four .inner-box  .lower-content h3 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .project-block-four .inner-box  .lower-content p {
@@ -13688,7 +13688,7 @@ figure {
 
 .header-style-23 .main-menu .navigation>li.current>a, 
 .header-style-23 .main-menu .navigation>li>a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .header-style-23 .main-menu .navigation>li.dropdown>a:before {
@@ -13758,7 +13758,7 @@ figure {
 
 .header-style-23 .theme-btn-one:hover {
 	background: #fff;
-	color: #f9bd06 !important;
+	color: #C29B8B !important;
 }
 
 .header-style-23 .sticky-header {
@@ -13799,7 +13799,7 @@ figure {
 	font-family: "Priori Sans", sans-serif;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #f9bd06;
+	color: #C29B8B;
 	margin-bottom: 16px;
 	padding-right: 102px;
 }
@@ -13807,7 +13807,7 @@ figure {
 .banner-style-23 .content-box .title-text:before {
 	position: absolute;
 	content: '';
-	background: #f9bd06;
+	background: #C29B8B;
 	width: 90px;
 	height: 2px;
 	right: 0px;
@@ -13847,7 +13847,7 @@ figure {
 
 .banner-style-23 .content-box .theme-btn-one:hover {
 	background: #fff;
-	color: #f9bd06 !important;
+	color: #C29B8B !important;
 }
 
 .banner-style-23 .image-box {
@@ -13960,7 +13960,7 @@ figure {
 }
 
 .about-style-ten .info-inner .single-info h4 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .about-style-ten .text-box {
@@ -14218,7 +14218,7 @@ figure {
 }
 
 .project-style-seven .contact-box p a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .project-style-seven .contact-box p:last-child {
@@ -14228,7 +14228,7 @@ figure {
 .project-style-seven .content-box .inner-box {
 	position: relative;
 	display: block;
-	background: #f9bd06;
+	background: #C29B8B;
 	padding: 82px 40px 71px 45px;
 	margin-bottom: 30px;
 }
@@ -14559,7 +14559,7 @@ figure {
 }
 
 .service-block-six .inner-box .lower-content h3 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .service-block-six .inner-box .lower-content .link a {
@@ -14581,7 +14581,7 @@ figure {
 }
 
 .service-block-six .inner-box .lower-content .link a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .service-style-seven .slider-nav-style-2 {
@@ -15003,7 +15003,7 @@ figure {
 
 .banner-style-26 .content-box a:hover {
 	color: #fff;
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .banner-style-26 .image-layer .image-1 {
@@ -15019,11 +15019,11 @@ figure {
 }
 
 .project-style-six.home-26 .sub-title {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .project-style-six.home-26 .sub-title:before {
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .project-style-six.home-26 .project-block-four .inner-box .image-box .link a {
@@ -15031,7 +15031,7 @@ figure {
 }
 
 .project-style-six.home-26 .project-block-four .inner-box .image-box .link a:hover {
-	background: #f9bd06;
+	background: #C29B8B;
 }
 
 .feature-section.home-26 {
@@ -15577,7 +15577,7 @@ figure {
 }
 
 .team-block-one .inner-box .lower-content h3 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .team-block-one .inner-box .lower-content .designation {
@@ -18544,7 +18544,7 @@ figure {
 
 .header-style-35 button.theme-btn.search-toggler:hover {
 	color: #fff;
-	border-color: #f9bd06;
+	border-color: #C29B8B;
 }
 
 .header-style-35 .sidemenu-nav-toggler {
@@ -18552,7 +18552,7 @@ figure {
 }
 
 .header-style-35 .sidemenu-nav-toggler:hover {
-	border-color: #f9bd06;
+	border-color: #C29B8B;
 }
 
 .header-style-35 .sticky-header {
@@ -18920,7 +18920,7 @@ figure {
 }
 
 .project-block-seven .inner-box .lower-content h4 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .project-block-seven .inner-box .lower-content p {
@@ -19133,7 +19133,7 @@ figure {
 }
 
 .news-block-two .inner-box .lower-content h4 a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .page-wrapper.home-36 {
@@ -19599,7 +19599,7 @@ figure {
 	line-height: 26px;
 	font-family: "Priori Sans", sans-serif;
 	font-weight: 500;
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .banner-style-37 .content-box .phone-box a {
@@ -19611,7 +19611,7 @@ figure {
 }
 
 .banner-style-37 .content-box .phone-box a:hover {
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 
@@ -23761,10 +23761,10 @@ ul.stand-header-nav a {
 
 .button-box {
 	padding: 13px 30px;
-	border: 1px solid #f9bd06;
+	border: 1px solid #C29B8B;
 	font-size: 17px;
 	font-weight: 500;
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .buttonbox {
@@ -23860,7 +23860,7 @@ ul.facilities li+li {
 .operations img {
 	border: 1px solid #ddd;
 	padding: 10px 15px;
-	background: #f9bd06;
+	background: #C29B8B;
 	max-width: 80px;
 	margin-right: 15px;
 }.operations img:hover {
@@ -23883,7 +23883,7 @@ ul.facilities li+li {
     border: 1px solid #fff;
     z-index: 9;
     padding: 22px 40px;
-    background: #f9bd06;
+    background: #C29B8B;
     color: #fff;
     transform: rotate(180deg);
 }
@@ -23897,7 +23897,7 @@ ul.facilities li+li {
     z-index: 9;
     padding: 26px 40px 17px 40px;
     color: #fff;
-    background: #f9bd06;
+    background: #C29B8B;
 }
 
 i.flaticon-right-arrow-angle, i.flaticon-left-arrow-line-symbol {
@@ -23932,7 +23932,7 @@ i.flaticon-right-arrow-angle, i.flaticon-left-arrow-line-symbol {
 	font-size: 16px;
 	font-weight: 600;
 	text-transform: capitalize;
-	color: #f9bd06;
+	color: #C29B8B;
 }
 
 .career {
@@ -23977,7 +23977,7 @@ i.flaticon-right-arrow-angle, i.flaticon-left-arrow-line-symbol {
 
 ul.link-widget-1-list li i {
 	font-size: 15px;
-	color:#f9bd06;
+	color:#C29B8B;
 	margin-right: 5px;
 }
 
@@ -24054,18 +24054,18 @@ p.disc {
 	position: absolute;
 	width: 10%;
 	height: 40%;
-	background-color: #f9bd06;
+	background-color: #C29B8B;
 	top: -45px;
 	left: -35px;
 }*/.main-header .header-upper .logo-box .logo img {
     max-width: 200px;
     margin-left: 25px;
 }.services .btn1:hover a {
-	    color: #f9bd06 !important;
+	    color: #C29B8B !important;
     background: #4584f8 !important;
 }
 a:hover {
-	    color: #f9bd06 !important;
+	    color: #C29B8B !important;
 }header.main-header.header-style-one .headerlink-btn a:hover {
     color: #4584f8 !important;
 }
@@ -24123,7 +24123,7 @@ a:hover {
     width: 51%;
     height: 100%;
 }.building-site-content h6 {
-    color: #f9bd06;
+    color: #C29B8B;
     text-transform: uppercase;
     font-size: 25px;
 }.building-image img {
@@ -24188,9 +24188,9 @@ a:hover {
 }p.phone {
     font-size: 15px;
 }p.phone:hover {
-    color: #f9bd06;
+    color: #C29B8B;
 }.orange {
-    color: #f9bd06;
+    color: #C29B8B;
 }.contact-form {
     background-image: url(../images/contact-bg.png);
     background-repeat: no-repeat;
@@ -24525,7 +24525,7 @@ a:hover {
             font-size: 14px;
             color: #333;
         }.career-inner .btn-1 {
-    background-color: #f9bd06;
+    background-color: #C29B8B;
 }.hse-content .text-headding h2 {
     font-size: 30px;
     line-height: 40px;
